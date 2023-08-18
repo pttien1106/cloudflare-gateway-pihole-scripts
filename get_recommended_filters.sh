@@ -12,6 +12,12 @@ urls=(
   https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+  https://abpvn.com/android/abpvn.txt
+  https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
+  https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+  https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+  https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 )
 
 # loop through the urls and download each file with curl
